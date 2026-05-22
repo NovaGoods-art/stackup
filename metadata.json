@@ -1,0 +1,6 @@
+{
+  "name": "StackUp",
+  "description": "A habit stacking app where users build chains of micro-habits attached to everyday anchors, complete with visual link graphics, streaks, satisfying animations, and weekly heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
